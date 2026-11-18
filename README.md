@@ -29,7 +29,7 @@ Southern Delta University
 
 Currently Developing
 
-Continuing to improve my data analytics skills through practical projects and hands-on learning.## Hi there 👋
+Continuing to improve my data analytics skills through practical projects and hands-on learning.
 
 <!--
 **DatawithMarvin/DatawithMarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
